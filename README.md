@@ -1,6 +1,6 @@
  Pac-Man Evolution 
 
-O Pac-Man Evolution é uma aplicação desktop escrita em Python que recria a experiência clássica do arcade com funcionalidades modernas. O projeto foca em uma implementação limpa de Orientação a Objetos (POO) e manipulação de gráficos vetoriais em tempo real com tkinter. 
+O Pac-Man Evolution é uma aplicação desktop escrita em Python que recria a experiência clássica do arcade com funcionalidades modernas. O projeto foca em uma implementação limpa de Orientação a Objetos (POO) e manipulação de gráficos vetoriais em tempo real com tkinter.
 
  
 
