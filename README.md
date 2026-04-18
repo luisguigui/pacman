@@ -82,7 +82,6 @@ Não são necessárias bibliotecas externas. Apenas o Python padrão:
 
 Bash 
 
-git clone https://github.com/seu-usuario/pacman-evolution.git 
 cd pacman-evolution 
 python pacman_evolution.py 
  
